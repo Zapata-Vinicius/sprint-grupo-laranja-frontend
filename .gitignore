@@ -1,0 +1,10 @@
+# .gitignore (Frontend)
+node_modules/
+dist/
+build/
+.env
+.env.local
+.venv
+.venv/
+venv/
+env
